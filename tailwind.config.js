@@ -38,6 +38,15 @@ module.exports = {
       black: '900',
     },
   },
-  extend: {},
+  extend: {
+    height: {
+      100: '28rem',
+      104: '32rem',
+    },
+    width: {
+      100: '28rem',
+      104: '32rem',
+    },
+  },
   plugins: [],
 };
